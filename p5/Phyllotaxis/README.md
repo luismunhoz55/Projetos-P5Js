@@ -1,0 +1,1 @@
+- Visualizando o padrão presente em Girassóis e outros lugares da natureza
