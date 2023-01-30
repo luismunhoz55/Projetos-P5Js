@@ -1,2 +1,2 @@
 # MandelBrot set
-- Fractal
+- Visualizando o Fractal
