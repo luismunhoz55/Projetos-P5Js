@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/6z7GQewK-Ks
-
 var minval = -0.5;
 var maxval = 0.5;
 
