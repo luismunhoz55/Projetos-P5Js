@@ -92,6 +92,7 @@ function draw() {
   //If it's finished, save the picture and stop the loop
   if (check()) {
     noLoop();
+    console.log('finished');
   }
 
   if (!paused) {
